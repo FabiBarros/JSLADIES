@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(251, 255, 255);
+    font-family: "Helvetica";
+}
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica;
+    font-style: bold;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid rgb(119, 196, 226);
+  }
+  .bio {
+    height: 90%;
+    text-align: center;
+    background: white;
+    width: 50%;
+    padding: 30px;
+    border: 1px solid gray;
+  }
+  
+  .center {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .content {
+    margin: 70px;
+  }
+  .avatar {
+    float: left;
+  }
+  
